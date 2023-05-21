@@ -1,0 +1,7 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, #8b848d 0%, skyblue 100%);
+}

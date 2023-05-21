@@ -1,0 +1,13 @@
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+#skills{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,107,9,1) 35%, rgba(0,212,255,1) 100%);
+    color: aliceblue;
+}
+.file{
+    height: 60px;
+}

@@ -1,0 +1,25 @@
+nav{
+    /* background: rgb(92, 93, 94); */
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,107,9,1) 35%, rgba(0,212,255,1) 100%); */
+    /* background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); */
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,45,1) 35%, rgba(0,212,255,1) 100%);
+}
+.nav-bar{
+    align-self: start;
+}
+.navbar-nav a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(17, 221, 72);
+    font-weight: 700;
+    text-align: center;
+}
+.navbar-nav a:hover{
+    background: rgb(17, 221, 72);;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}

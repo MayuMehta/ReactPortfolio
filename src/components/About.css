@@ -1,0 +1,13 @@
+.custom-button{
+    border-radius: 6px;
+    padding: 10px;
+    width: 200px;
+    font-weight: 700;
+    color: white;
+    background: #f06d55;
+    border: none;
+}
+.dark-bg{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,107,9,1) 35%, rgba(0,212,255,1) 100%);
+}
